@@ -155,7 +155,7 @@ git --version
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/api-connect-rodrigo-medeiros.git
+git clone https://github.com/rodrigomedeirosdevjava/api-connect-rodrigo-medeiros
 ```
 
 Acesse o diretório:

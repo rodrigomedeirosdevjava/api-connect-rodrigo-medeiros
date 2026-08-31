@@ -1,0 +1,21 @@
+{
+  "name": "api-connect",
+  "version": "1.0.0",
+  "description": "API REST para gerenciamento de usuários",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "express",
+    "crud"
+  ],
+  "author": "Rodrigo Medeiros",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
